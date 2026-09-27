@@ -1,0 +1,15 @@
+# 密钥与运行产物
+.env
+tokens.json
+
+# 虚拟环境
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 操作系统
+.DS_Store
+Thumbs.db
